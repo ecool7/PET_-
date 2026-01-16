@@ -1,0 +1,60 @@
+
+product,category,price,quantity
+ADXL345,Accelerometer,15.50,45
+MPU-6050,IMU,8.75,120
+LSM6DS3,IMU,12.30,85
+BMX055,IMU,18.20,60
+ICM-20948,IMU,22.40,75
+ADIS16470,Tactical-Grade IMU,1250.00,12
+ADIS16480,Tactical-Grade IMU,1850.00,8
+HG4930,Fiber Optic Gyro,3200.00,6
+HG9900,Fiber Optic Gyro,4500.00,4
+L3GD20H,Gyroscope,9.80,95
+ADXRS290,Gyroscope,45.30,32
+ADIS16209,Dual-Axis Gyro,89.90,28
+ADXL1002,High-g Accelerometer,65.40,40
+ADXL355,Low-Noise Accelerometer,32.10,68
+ADXL357,Low-Noise Accelerometer,38.50,52
+Colibrys MS9000,MEMS Accelerometer,120.00,24
+Colibrys MS1000,High-Resolution Accel,95.50,35
+SCC2130,Inclinometer,28.90,80
+SCC2230,Inclinometer,34.20,65
+HAS200,Inertial Sensor,150.00,30
+HAS300,Inertial Sensor,210.00,22
+ADIS16488A,Precision IMU,980.00,18
+ADIS16490,Precision IMU,1350.00,14
+ADIS16495,Precision IMU,1650.00,10
+ADIS16497,Precision IMU,2100.00,8
+KVH 1750,Fiber Optic Gyro,5200.00,5
+KVH 1775,FOG IMU,6800.00,3
+HG1700,RLG,12500.00,2
+HG1900,RLG,18500.00,1
+Q-Flex QA3000,Accelerometer,85.00,42
+Q-Flex QA7000,Accelerometer,120.00,28
+MEMSIC MXC4005XC,Accelerometer,3.20,150
+MEMSIC MXR9500G,Magnetometer,12.50,88
+Bosch BMI088,IMU,6.80,200
+Bosch BMI160,IMU,4.50,180
+ST LIS2DH12,Accelerometer,2.10,250
+ST LIS3DH,Accelerometer,2.50,220
+ST LSM9DS1,IMU,7.90,130
+ST LSM6DSO,IMU,5.60,160
+Analog Devices ADIS16210,Tilt Sensor,42.30,55
+Analog Devices ADIS16220,Tilt Sensor,58.90,38
+Sensonor STIM202,Gyroscope,110.00,26
+Sensonor STIM210,Gyroscope,145.00,20
+Murata SCC1300,Combined Sensor,8.90,120
+Murata SCC2000,Combined Sensor,14.50,85
+Epson M-G350,Gyroscope,25.00,70
+Epson M-G370,Gyroscope,32.00,58
+TE Connectivity MS5611,Pressure Sensor,6.50,140
+InvenSense ICM-42605,IMU,5.20,175
+InvenSense ICM-20602,IMU,4.80,190
+NXP FXOS8700CQ,6-Axis Sensor,3.90,210
+Kionix KX022,Accelerometer,2.80,230
+Kionix KX126,Accelerometer,3.40,195
+PCB Piezotronics 352C33,Accelerometer,480.00,15
+Endevco 7270A,Accelerometer,520.00,12
+Bruel & Kjaer 4507,Accelerometer,680.00,9
+Dytran 3055B,Accelerometer,320.00,25
+Siemens 7MF1570,Inertial Sensor,950.00,17
